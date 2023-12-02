@@ -1,5 +1,5 @@
 # AOC2023
-this is my git repository for the 2023 Advent of Code
+this is my git repository for the 2023 Advent of Code written in Rust.
 
 # Advent of Code Progress
 
