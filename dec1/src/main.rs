@@ -10,14 +10,6 @@ fn main() -> io::Result<()> {
 
     for line in reader.lines() {
         let line = line?;
-        // let mut i = 0;
-            // for c in line.chars() {
-            //     match c {
-            //         '0'..='9' => digits.push(vec![c]),
-            //         _ => ()
-
-            //     }
-            // }
         println!("{:?}", line);
 
         let mut left : i32 = -1;
